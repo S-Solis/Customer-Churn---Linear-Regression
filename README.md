@@ -25,3 +25,7 @@ Based on the Churn Risk Distribution above, this section categorizes members int
 The list of customers sorted by churn risk are saved as customers_by_churn_risk.csv.
 
 ## Resources
+- [Kaggle dataset](https://www.kaggle.com/datasets/kartiksaini18/churn-bank-customer)
+- [sklearn.linear_model.LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+- [sklearn.linear_model.LogisticRegression.predict_proba](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html#sklearn.linear_model.LogisticRegression.predict_proba)
+- [matplotlib.pyplot.hist](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist.html)
