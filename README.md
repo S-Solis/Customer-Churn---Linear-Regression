@@ -1,5 +1,5 @@
 # Customer Churn - Linear-Regression
-by Stephanie Solis
+## by Stephanie Solis
 ## Project Brief
 A simple linear regression model in Python to predict the likelihood that a customer of a financial institution will leave.
 This project uses [scikit learn's logistic regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) to predict the likelihood that a customer will leave a financial institution. It uses a [dataset available on Kaggle](https://www.kaggle.com/datasets/kartiksaini18/churn-bank-customer) that contains data for 10,000 customers of an unnamed financial institution.
