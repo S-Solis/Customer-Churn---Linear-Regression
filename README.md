@@ -15,3 +15,13 @@ Once the predictions are calculated, [matplotlib.pyplot.hist](https://matplotlib
 <img width="376" height="278" alt="image" src="https://github.com/user-attachments/assets/02c0c945-178b-4a8e-a61a-0d8e8195b7d9" />
 
 ### Part 2: Build Churn Categorization Categories and Productionalize List
+Based on the Churn Risk Distribution above, this section categorizes members into the below churn risk buckets:
+
+1: Low churn risk. 0 - <.2
+2: Mild churn risk. 0.2 - <0.3
+3: Moderate churn risk. 0.3 - <0.4
+4: High churn risk. >=0.4
+
+The list of customers sorted by churn risk are saved as customers_by_churn_risk.csv.
+
+## Resources
